@@ -11,6 +11,7 @@ section{
     width: 40%;
     margin-left: 4%;
     padding-left: 4px;
+    margin-bottom: 20%;
 }
 #nav-bg{
     background: linear-gradient(90deg, rgb(174, 0, 255), rgb(255, 1, 141));

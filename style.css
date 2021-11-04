@@ -1,17 +1,14 @@
 body{
-    margin: 0%;
     font-family: 'Poppins', sans-serif;
 }
 section{
     height: 200px;
     padding-bottom: 150px;
+    margin-bottom: 15%;
 }
 .half-width{
-    float: left;
-    width: 40%;
-    margin-left: 4%;
-    padding-left: 4px;
-    margin-bottom: 20%;
+    position: relative;
+    top: -500%;
 }
 #nav-bg{
     background: linear-gradient(90deg, rgb(174, 0, 255), rgb(255, 1, 141));
